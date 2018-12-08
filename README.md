@@ -1,2 +1,2 @@
 # git-lab1
-Git basic titorial
+Git basic tutorial
